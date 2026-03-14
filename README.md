@@ -1,44 +1,24 @@
-# Cursor Follow Animation
+# 🖱️ Cursor Follow Animation
 
-A simple JavaScript project that creates a custom cursor animation which follows the user's mouse movement on the screen.
+A simple **JavaScript animation project** where a custom circular cursor follows the user's mouse movement on the screen.
 
-## 🌐 Live Demo
-
-Try the project here:  
+🌐 **Live Demo:**  
 https://cursor-follow-aniation.netlify.app/
 
-## Features
-
+✨ **Features**
 - Custom circular cursor
 - Cursor smoothly follows mouse movement
-- Simple DOM manipulation using JavaScript
-- Beginner friendly project
+- Beginner-friendly JavaScript animation
 
-## Technologies Used
+🛠 **Technologies**
+HTML • CSS • JavaScript
 
-- HTML
-- CSS
-- JavaScript
+📥 **Clone Repository**
 
-## How It Works
+git clone https://github.com/alisraza123/cursor-follow-animation.git
 
-The project listens to the `mousemove` event on the main container and updates the position of the custom cursor element based on the mouse coordinates.
+📚 **Concepts Learned**
+DOM Manipulation • Mouse Events • Dynamic Style Updates
 
-## Project Structure
-
-index.html – Main HTML structure  
-style.css – Styling for cursor and layout  
-app.js – JavaScript logic for cursor movement
-
-## Learning Purpose
-
-This project demonstrates basic concepts of:
-
-- DOM selection
-- Event listeners
-- Mouse position tracking
-- Dynamic style updates
-
-## Author
-
+👤 **Author**  
 Ali Raza
